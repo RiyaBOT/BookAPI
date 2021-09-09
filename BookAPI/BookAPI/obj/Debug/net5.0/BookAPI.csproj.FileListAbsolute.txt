@@ -27,3 +27,13 @@ C:\Users\riyasn\Downloads\bookgit\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookA
 C:\Users\riyasn\Downloads\bookgit\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
 C:\Users\riyasn\Downloads\bookgit\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
 C:\Users\riyasn\Downloads\bookgit\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
+C:\Users\riyasn\Downloads\trypoo\BookAPI\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
